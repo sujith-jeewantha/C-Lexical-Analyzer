@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633351337 source:/home/suji-tech/Projects/Requirements/NSBM/Sahan Prabhashana/Project/Lexical_Analyzer/src/includes.cpp
+	"includes.h"
+
+1633351337 /home/suji-tech/Projects/Requirements/NSBM/Sahan Prabhashana/Project/Lexical_Analyzer/include/includes.h
+
+1633360301 source:/home/suji-tech/Projects/Requirements/NSBM/Sahan Prabhashana/Project/Lexical_Analyzer/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
